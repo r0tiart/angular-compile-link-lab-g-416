@@ -8,4 +8,4 @@
 
 Take the directive in this repo, and add a link function to it.
 
-Experiment with `compile` and `link` to the change the text in our directive to anything else. 
+Experiment with `compile` and `link` to the change the text in our directive to anything else.
