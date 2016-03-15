@@ -8,4 +8,6 @@
 
 Take the directive in this repo, and add a link function to it.
 
-Experiment with `compile` and `link` to the change the text in our directive to anything else.
+Use the `compile` function to change the textContent of our directive.
+
+Then, use the `link` function to add an event listener to the directive.
